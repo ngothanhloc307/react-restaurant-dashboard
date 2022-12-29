@@ -1,3 +1,4 @@
 # react-restaurant-dashboard
 Restaurant Dashboard (ReactJS + TaildwindCSS)
-![image](https://user-images.githubusercontent.com/109213430/209920382-97671862-6006-4b31-89b2-43e0bf4bf972.png)
+![image](https://user-images.githubusercontent.com/109213430/209920665-548b284b-6c71-445c-8bf2-b00e32defa1f.png)
+
